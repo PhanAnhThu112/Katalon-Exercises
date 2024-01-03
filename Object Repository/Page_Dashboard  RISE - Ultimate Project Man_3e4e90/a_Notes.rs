@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Notes</name>
+   <tag></tag>
+   <elementGuidId>c7730d02-de71-468f-b815-3fe4cb9d3d8d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='sidebar-menu']/li[10]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ecc77588-5555-49d6-8909-30ecee82bcd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://rise.fairsketch.com/notes</value>
+      <webElementGuid>de3e61b3-3c0b-4b79-ad87-5fe020054e2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        
+                        Notes
+                        </value>
+      <webElementGuid>9a64d0c9-b198-4c29-86fd-ca04a9d57dd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebar-menu&quot;)/li[@class=&quot;main&quot;]/a[1]</value>
+      <webElementGuid>b6e29d1e-a78f-4e3e-a3c3-403b3c2c88f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='sidebar-menu']/li[10]/a</value>
+      <webElementGuid>44f9eb1c-f3f9-472a-b9c0-281c039e9b3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://rise.fairsketch.com/notes')]</value>
+      <webElementGuid>8c58d895-0857-4e7e-8699-482792a5a87b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[10]/a</value>
+      <webElementGuid>db893b06-c6ee-431a-841a-bcb19266c605</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://rise.fairsketch.com/notes' and (text() = '
+                        
+                        Notes
+                        ' or . = '
+                        
+                        Notes
+                        ')]</value>
+      <webElementGuid>defbd750-1817-4ad4-84c4-628b3ca7856f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
